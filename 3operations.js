@@ -57,3 +57,8 @@ truthy > any number excpet 0, +ve or -ve, any string , true
 falsy > 0, false, null, undefined
 
 all comparistion operator will return boolean
+
+10 == "10"
+
+10 != "10"   (10 == "10")
+10 !== "10"   (10 === "10")
