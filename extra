@@ -4,7 +4,6 @@ Ecma 6
 Ecma 7
 > DataTypes
 > Operations
-/////////
 > variable
 > String
 > Math
@@ -12,48 +11,60 @@ Ecma 7
 > localstorage
 > sessionStorage
 > cookies
-> github
 > condition
 > if else
 > ternery Operations
 > switch
 > Date
+/////////
 > array
+> let, const
+
 > regex
-> loops
 > Functions
+
+> loops
 > Es6
     > maps,filter
-> let, const
+
 > Clousers
 > Hoisting
 > JSON
+> object 
+
 > Es6
     > Transpile
     > import export
 > package.JSON
 > npm
-> object 
 > this 
+
 > Prototypes
 > Es6
     > classes
 > DoM
+
+> github
 > Calc
 > Geolocation
+
 > Form validation
 > Event
+> screen
+
 > currenyConvertor
 > promis
 > async await
-> screen
 > Dynamic DropDown
+
 > Progress bar
 > Call/Apply
+> Baisc Jquery
+
 > Weather application
 > ajax
-> Baisc Jquery
 > DataTables
+
 > fabonicci
 > factorial
 > palindrome
