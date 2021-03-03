@@ -17,27 +17,25 @@ Ecma 7
 > switch
 > Date
 > array
-/////////
 > let, const
 > regex
 > Functions
-
+/////////
 > loops
 > Es6
     > maps,filter
-
 > Clousers
 > Hoisting
+
 > JSON
 > object 
-
 > Es6
     > Transpile
     > import export
 > package.JSON
 > npm
-> this 
 
+> this 
 > Prototypes
 > Es6
     > classes
