@@ -121,8 +121,7 @@ myarr.indexOf('Mumbai')
 myarr.indexOf('Kia')
 -1
 
-var a ="Hi"
-undefined
+var a ="Hi";
 Array.isArray(a)
 false
 Array.isArray(myarr)
