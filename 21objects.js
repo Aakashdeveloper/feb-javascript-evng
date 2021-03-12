@@ -77,3 +77,24 @@ for(key in movies){
 Avengers
 4.5
 Eng
+
+///////
+var calc={
+    sum:function(a,b){return a+b},
+    sub:(a,b) => { return a+b}
+}
+undefined
+calc.sum(1,2)
+3
+calc.sub(1,2)
+3
+
+var dbQuery = {
+    find:(table)=> {return `Select * from ${table}`},
+    insert:(table,data) => {return `Insert into ${table} name,city Values (${data.name}, ${data.city})`}
+}
+undefined
+dbQuery.find('Students')
+"Select * from Students"
+dbQuery.insert('Student',{name:'John',city:'Delhi'})
+"Insert into Student name,city Values (John, Delhi)"

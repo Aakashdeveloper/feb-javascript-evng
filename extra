@@ -26,15 +26,14 @@ Ecma 7
 > Clousers
 > Hoisting
 > > JSON
-/////////
 > object 
 > Es6
     > Transpile
     > import export
 > package.JSON
 > npm
+/////////
 > this 
-
 > Prototypes
 > Es6
     > classes
@@ -42,16 +41,15 @@ Ecma 7
 > github
 > Calc
 > Geolocation
+> screen
 
 > Form validation
 > Event
-> screen
-
 > currenyConvertor
 > promis
 > async await
-> Dynamic DropDown
 
+> Dynamic DropDown
 > Progress bar
 > Call/Apply
 > Baisc Jquery
@@ -59,7 +57,11 @@ Ecma 7
 > Weather application
 > ajax
 > DataTables
-
 > fabonicci
 > factorial
 > palindrome
+
+
+////////Transpile//////
+> npm init -y
+> npm i @babel/core @babel/preset-env @babel/register
