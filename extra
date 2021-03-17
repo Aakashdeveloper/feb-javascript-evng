@@ -23,6 +23,63 @@ Ecma 7
 > loops
 > Es6
     > maps,filter
+    > Spread
+    > Rest
+    > Destructure
+> Clousers
+> Hoisting
+> > JSON
+> object 
+> Es6
+    > Transpile
+    > import export
+> package.JSON
+> npm
+> this 
+> Prototypes
+> Es6
+    > classes
+> DoM
+> github
+> Calc
+> Geolocation
+> screen
+> Form validation
+> Event
+> currenyConvertor
+> promis
+> async await
+> Dynamic DropDown
+> Progress bar
+> Call/Apply
+Ecma Script
+Ecma 5
+Ecma 6
+Ecma 7
+> DataTypes
+> Operations
+> variable
+> String
+> Math
+> String literals
+> localstorage
+> sessionStorage
+> cookies
+> condition
+> if else
+> ternery Operations
+> switch
+> Date
+> array
+> let, const
+> regex
+> Functions
+> loops
+> Es6
+    > maps,filter
+    > Spread
+    > Rest
+    > Destructure
 > Clousers
 > Hoisting
 > > JSON
@@ -50,7 +107,6 @@ Ecma 7
 > Dynamic DropDown
 > Progress bar
 > Call/Apply
-
 > Baisc Jquery
 > Weather application
 > ajax
@@ -58,6 +114,7 @@ Ecma 7
 > fabonicci
 > factorial
 > palindrome
+
 
 
 ////////Transpile//////
